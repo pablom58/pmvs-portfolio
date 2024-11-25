@@ -8,27 +8,21 @@ import { motion } from 'framer-motion'
 const services = [
     {
         num: "01",
-        title: "Web Development",
-        description:"Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
-        href: ""
+        title: "DevOps Engineer",
+        description: "Streamlining the development process via continuous integration and delivery. Expertise in designing and implementing high-performing AWS infrastructures tailored to boost your application's productivity.",
+        href: "/contact"
     },
     {
         num: "02",
-        title: "UI/UX Design",
-        description:"Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
-        href: ""
+        title: "Backend Development",
+        description: "Crafting powerful, scalable back-end solutions that fuel your application. Prioritizing optimal security, performance, and clean, maintainable code to ensure your application's robustness.",
+        href: "/contact"
     },
     {
         num: "03",
-        title: "Logo Design",
-        description:"Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
-        href: ""
-    },
-    {
-        num: "04",
-        title: "SEO",
-        description:"Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
-        href: ""
+        title: "SRE",
+        description: "Focusing on system stability, reliability, and uptime. Efficiently resolving operational issues and implementing proactive measures to uphold high-quality service standards in high-scale environments.",
+        href: "/contact"
     },
 ]
 
